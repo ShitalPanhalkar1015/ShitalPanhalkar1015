@@ -2,7 +2,7 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2NrdmlxdTc2M204Y2sydGJ1ZWQyOG5vb281dmJuMnhzdWUyZm42cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bT9HaxJBbit8zYRXaB/giphy.gif" width="140"/>
 </p>
 
-<h1 align="center">💖 Hi 👋, I'm Shital Panhalkar 💖</h1>
+<h1 align="center"><h1 align="center"> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTE5ajhzMnc4NnYzcG1wcnRubHR3YWRsZnp4aTEwaGVrd2llZ3AwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PG0nkeTRrsGGW0JRbb/giphy.gif" width="50" alt="Cute Sticker" />💖 Hi 👋, I'm Shital Panhalkar 💖 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTA4cHczbWJidXY1cTc3N2tsNXJuMDZzamMydmZ1NXNjOTBscWF4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uJNDUx848SxlOqF05k/giphy.gif" width="50" alt="Cute Sticker" /></h1>
 
 <h3 align="center">
   🌸 Final Year CSE Student | AI Explorer | MERN Stack Developer 🌸
@@ -60,8 +60,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ShitalPanhalkar1015&label=Profile%20views&color=ff69b4&style=flat" />
 </p>
-
----
 
 <p align="center">
   <em>“Build with passion, grow with consistency, shine with confidence.” ✨💖</em>
