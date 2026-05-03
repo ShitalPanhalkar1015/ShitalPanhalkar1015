@@ -35,13 +35,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShitalPanhalkar1015&show_icons=true&hide_border=true&title_color=ff69b4&icon_color=ff69b4&text_color=ffe4f1&bg_color=1a001f" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShitalPanhalkar1015&show_icons=true&hide_border=true&title_color=ff69b4&icon_color=ff69b4&text_color=ffd6e8&bg_color=1a001f" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShitalPanhalkar1015&hide_border=true&background=1a001f&ring=ff69b4&currStreakLabel=ff69b4&dates=ffe4f1&sideLabels=ffc0cb" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShitalPanhalkar1015&hide_border=true&background=1a001f&ring=ff69b4&currStreakLabel=ff69b4&dates=ffd6e8&sideLabels=ffd6e8&sideNums=ffffff" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShitalPanhalkar1015&layout=compact&hide_border=true&title_color=ff69b4&text_color=ffe4f1&bg_color=1a001f" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShitalPanhalkar1015&layout=compact&hide_border=true&title_color=ff69b4&text_color=ffd6e8&bg_color=1a001f" />
 </p>
-
 ---
 
 ## 🌐 Connect With Me
