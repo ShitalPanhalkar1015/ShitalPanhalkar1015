@@ -16,7 +16,7 @@
 
 ## 🌷 About Me
 
-- 🎓 Final Year CSE Student  
+- 🎓 Graduate in B.Tech CSE  
 - 🧠 Passionate about **AI/ML + MERN Stack Development**  
 - 🚀 Building real-world impactful projects  
 - 💬 Ask me about **JavaScript, React, Node.js, Python**  
